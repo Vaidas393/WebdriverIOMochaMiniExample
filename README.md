@@ -1,5 +1,5 @@
 # Automation tests project
-Since project was done for a company actual logins won't work, and tests won't run, only code example!!!!
+Since project was done for a company actual logins won't work, and tests won't run, only code example!!
 Will recreate on my own application in upcoming months, at the moment it is just as a code example.
 
 Thank you for your cooperation!

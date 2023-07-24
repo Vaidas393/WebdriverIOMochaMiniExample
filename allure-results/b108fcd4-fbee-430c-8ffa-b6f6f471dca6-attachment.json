@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//p[@class='play-limits__limit-total text-primary'])[2]/span"
+}

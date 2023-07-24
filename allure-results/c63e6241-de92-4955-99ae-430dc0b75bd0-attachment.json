@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".login-dropdown__toggle\"}\n  (Session info: chrome=103.0.5060.134)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x00FC6463+2188387]\n\tOrdinal0 [0x00F5E461+1762401]\n\tOrdinal0 [0x00E73D78+802168]\n\tOrdinal0 [0x00EA1880+989312]\n\tOrdinal0 [0x00EA1B1B+989979]\n\tOrdinal0 [0x00ECE912+1173778]\n\tOrdinal0 [0x00EBC824+1099812]\n\tOrdinal0 [0x00ECCC22+1166370]\n\tOrdinal0 [0x00EBC5F6+1099254]\n\tOrdinal0 [0x00E96BE0+945120]\n\tOrdinal0 [0x00E97AD6+948950]\n\tGetHandleVerifier [0x012671F2+2712546]\n\tGetHandleVerifier [0x0125886D+2652765]\n\tGetHandleVerifier [0x0105002A+520730]\n\tGetHandleVerifier [0x0104EE06+516086]\n\tOrdinal0 [0x00F6468B+1787531]\n\tOrdinal0 [0x00F68E88+1805960]\n\tOrdinal0 [0x00F68F75+1806197]\n\tOrdinal0 [0x00F71DF1+1842673]\n\tBaseThreadInitThunk [0x771EFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77DC7A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77DC7A6E+238]\n"
+}

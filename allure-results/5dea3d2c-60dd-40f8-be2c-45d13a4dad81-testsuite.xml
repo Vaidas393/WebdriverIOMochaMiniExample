@@ -1,0 +1,359 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1659095981709' stop='1659096001745'>
+    <name>Setting limits</name>
+    <title>Setting limits</title>
+    <test-cases>
+        <test-case start='1659095981709' status='broken' stop='1659096001744'>
+            <name>Limits test</name>
+            <title>Limits test</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-103.0.5060.134'/>
+            </parameters>
+            <steps>
+                <step start='1659095981711' status='passed' stop='1659095981732'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='4c793430-8b16-4937-9862-5b748f4b598c-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='3b5c4ef2-622c-4cc6-9346-398bb1bdcf7e-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095981739' status='passed' stop='1659095981750'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='6178f97e-d55e-4268-908c-2e8aad4c5884-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='f7b52830-44a1-40e8-bb14-5d711a819ee4-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095982241' status='passed' stop='1659095982250'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='9077c105-c363-4e1d-9fa0-a9724497d206-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='53155801-4678-4620-b3b1-3b4dbe773c42-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095982754' status='passed' stop='1659095982766'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='f2ab67a4-be63-40db-97bf-4fea0d194ea1-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='4ae5d94f-378b-4b93-b90a-eff936416218-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095983244' status='passed' stop='1659095983255'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='d5076396-0412-470f-bc93-51a721e1a3b8-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='7d4ea905-665a-4c59-adac-6be6b8d5437d-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095983741' status='passed' stop='1659095983752'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='daaa6321-7c87-4bb1-b6c7-0f67564642c2-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='1e898e91-8cc1-4dc9-8c09-87cd1224bef3-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095984242' status='passed' stop='1659095984256'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='59aa1f9c-cced-4c36-a428-2def8f074387-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='5f1414ec-8873-45d0-abe6-355d813cc4f3-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095984739' status='passed' stop='1659095984755'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='f40ecb7b-d942-4863-b863-85eda4cd1a6a-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='60320de4-d83f-4965-bd1d-28eeb6ab3b01-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095985254' status='passed' stop='1659095985266'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='167a9502-8cf3-4c3f-ad36-3e63dfec8417-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='cf07e995-ada3-4ff2-ab7c-1088ac82bdbd-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095985748' status='passed' stop='1659095985766'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='9febf676-8683-42da-b35b-032645a817fd-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='6a88289a-bb05-4f86-8369-f5096790aa1a-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095986246' status='passed' stop='1659095986262'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='77cf1681-9c95-407f-a072-5edbfa625b01-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='1e8ee080-1fab-416c-ba0c-968b2fdf3fde-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095986743' status='passed' stop='1659095986755'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='cbb2b5ba-5346-4115-9e2e-b1ad0225be34-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='a2bf7104-78bb-41b4-925d-8d2234361faa-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095987243' status='passed' stop='1659095987260'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='1f7658e2-f607-46c7-aba3-ce9a5811599c-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='95dabc46-6d5b-415d-bdb2-5994ca022b4f-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095987743' status='passed' stop='1659095987762'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='e1899400-b9b6-4f24-93e5-c566775ab049-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='573343e7-fbde-48df-8c30-8997d16e0a6c-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095988238' status='passed' stop='1659095988257'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='1bcb6606-d6b1-49f9-ab1b-3e2c3d1e0564-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='d8f96527-6c97-40f6-acab-529f4f958b11-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095988739' status='passed' stop='1659095988757'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='906f6f9f-f2bd-4db2-bbd0-9331b8d3a7b5-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='e48c125e-f595-4a5f-a492-7416ad81a583-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095989248' status='passed' stop='1659095989268'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='0aa6b08c-1898-4d53-b1fa-e1f73fbfaa6e-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='ba7e2358-f1d8-4c79-8b64-f7a8e445176f-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095989749' status='passed' stop='1659095989770'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='15184b9d-5bbe-4a3e-a0d1-d654cdd44634-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='9affe26f-dd32-4e81-b557-208a17b15a72-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095990238' status='passed' stop='1659095990260'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='487dde69-ece8-4dea-bc9e-0ac67335d81e-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='1da55eed-9b30-4d21-8845-e09c69ec24ce-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095990754' status='passed' stop='1659095990771'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='48f8cc10-20f1-404f-ab27-eef1bcbc3f02-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='f7d651fc-a9af-42f0-959b-def179857e7a-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095991248' status='passed' stop='1659095991265'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='6bace138-498a-4c8b-acdc-5b7120cb1ddd-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='2e1bba7a-808a-424d-9f46-0562ef2b376e-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095991738' status='passed' stop='1659095991756'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='a2912b99-95a3-47bc-bb59-5ef143b41777-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='25bf0916-d2b7-4e54-a629-7cd1dee6aed7-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095992246' status='passed' stop='1659095992263'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='f9bcf298-4cdc-4e7c-9a09-c3586441ddaf-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='03120174-bd21-486c-8978-e46ab37bf964-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095992738' status='passed' stop='1659095992760'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='5c136794-14e8-4622-9a7e-a6cdc2411df6-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='0e606e39-0502-4cfb-bc3d-7713c7997fd7-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095993243' status='passed' stop='1659095993261'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='85fa4f14-5be0-49e6-b90d-8967067ed482-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='d7c5e425-893b-4699-a3f7-e101b4be2faf-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095993738' status='passed' stop='1659095993750'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='4112def4-9c32-426f-b801-62da1ed45558-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='f4293ee2-c62f-4786-88a0-8d74ca7867db-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095994251' status='passed' stop='1659095994257'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='7b1ed95a-48a2-425a-8f6b-3bfd06f2b4fa-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='29150028-5f9d-40c3-8f8f-17ce47a6787e-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095994751' status='passed' stop='1659095994763'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='9ff6790e-c0cc-423e-a64f-14791c21d45a-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='5892b186-3eca-482c-965d-08bf1bef38bf-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095995243' status='passed' stop='1659095995249'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='7a173d11-7e9e-440d-bcc5-26ffdf341876-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='0743fd52-5b58-4803-b55b-ef5620e9c6bb-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095995750' status='passed' stop='1659095995759'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='06bfb175-3186-4412-8af8-1f0c1cca7d91-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='a9f2cb0a-d335-410d-b3e7-759489024841-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095996242' status='passed' stop='1659095996257'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='3f69ad5c-7cb2-4a6d-8154-2d1291658c08-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='f4a19738-72d6-4ae9-875b-172d4b5158bb-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095996743' status='passed' stop='1659095996759'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='2cad085c-f464-4f8f-8ba2-99fb6bfb9ac5-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='e4ba46ec-e406-4d81-af37-1e8e33cf6d61-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095997253' status='passed' stop='1659095997268'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='75830542-cda3-42b2-a05e-1a4b67baf09b-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='0ed3a63f-ce88-4790-b516-c77d546eab5b-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095997738' status='passed' stop='1659095997758'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='77cfdc3f-d595-4833-bddd-f4960d9ac91c-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='6599de74-d0af-4f8f-b7ab-fb96daeeaa56-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095998250' status='passed' stop='1659095998268'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='87eda65c-3d30-48eb-b3b4-182ff83d2c39-attachment.json' type='application/json' size='69'/>
+                        <attachment title='Response' source='edbc040b-e5be-4183-bee5-feea91be6020-attachment.json' type='application/json' size='1040'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659095998752' status='broken' stop='1659096001744'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='c631c853-219b-4b02-b324-3a6897bf5647-attachment.json' type='application/json' size='69'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>element (".header__user-menu-toggle") still not clickable after 20000ms</message>
+                <stack-trace>Error: element (".header__user-menu-toggle") still not clickable after 20000ms
+                    at C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\webdriverio\build\commands\browser\waitUntil.js:66:23
+                    at async Element.wrapCommandFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.wrapCommandFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async isClickable (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\test\functions.js:9:9)
+                    at async Limits (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\test\BNL\pageobjects\limits.js:23:5)
+                    at async Context.&lt;anonymous> (C:\Users\TestAdmin\Desktop\Automation TGLab\Automation-TG-Lab\test\BNL\specs\tests.js:25:9)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

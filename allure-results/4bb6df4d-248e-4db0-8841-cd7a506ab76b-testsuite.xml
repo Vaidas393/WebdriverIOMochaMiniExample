@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1659114533655' stop='1659114546801'>
+    <name>WbfLogin</name>
+    <title>WbfLogin</title>
+    <test-cases>
+        <test-case start='1659114533656' status='passed' stop='1659114546800'>
+            <name>Wbf Limits</name>
+            <title>Wbf Limits</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-103.0.5060.134'/>
+            </parameters>
+            <steps>
+                <step start='1659114533657' status='passed' stop='1659114546236'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='103bccd1-22c8-41ce-8ca5-8738cf54373d-attachment.json' type='application/json' size='54'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546236' status='passed' stop='1659114546373'>
+                    <name>POST /session/:sessionId/window/maximize</name>
+                    <title>POST /session/:sessionId/window/maximize</title>
+                    <attachments>
+                        <attachment title='Response' source='6fc49ff8-29e7-40b5-8059-f04836afb157-attachment.json' type='application/json' size='58'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546376' status='passed' stop='1659114546399'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='65ef7f71-09ad-47f3-9c91-7dc9a436f096-attachment.json' type='application/json' size='66'/>
+                        <attachment title='Response' source='14802339-8ee0-4238-9e5d-5f67dc0cb0b0-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546411' status='passed' stop='1659114546479'>
+                    <name>POST /session/:sessionId/element/5dedab41-06ab-43b6-b8d1-82e0b952f4d9/clear</name>
+                    <title>POST /session/:sessionId/element/5dedab41-06ab-43b6-b8d1-82e0b952f4d9/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1659114546495' status='passed' stop='1659114546577'>
+                    <name>POST /session/:sessionId/element/5dedab41-06ab-43b6-b8d1-82e0b952f4d9/value</name>
+                    <title>POST /session/:sessionId/element/5dedab41-06ab-43b6-b8d1-82e0b952f4d9/value</title>
+                    <attachments>
+                        <attachment title='Request' source='3b216a30-62e7-425d-a89f-2231dced8737-attachment.json' type='application/json' size='29'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546578' status='passed' stop='1659114546596'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='e9774cb1-3da7-414b-86a3-d72c1428c92d-attachment.json' type='application/json' size='66'/>
+                        <attachment title='Response' source='c9ab31c7-809b-45ec-ac29-1705b4f71274-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546603' status='passed' stop='1659114546637'>
+                    <name>POST /session/:sessionId/element/5626b234-9f51-41f5-b8a2-11b8390f9393/clear</name>
+                    <title>POST /session/:sessionId/element/5626b234-9f51-41f5-b8a2-11b8390f9393/clear</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1659114546638' status='passed' stop='1659114546710'>
+                    <name>POST /session/:sessionId/element/5626b234-9f51-41f5-b8a2-11b8390f9393/value</name>
+                    <title>POST /session/:sessionId/element/5626b234-9f51-41f5-b8a2-11b8390f9393/value</title>
+                    <attachments>
+                        <attachment title='Request' source='40a67d33-47ef-4ac0-8f12-95a5b7902854-attachment.json' type='application/json' size='25'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546710' status='passed' stop='1659114546740'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='ecee99cc-4194-41d1-8e76-f471e0d0702b-attachment.json' type='application/json' size='65'/>
+                        <attachment title='Response' source='710c2067-4f22-451a-bcd8-ef9824b4a4cc-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1659114546743' status='passed' stop='1659114546799'>
+                    <name>POST /session/:sessionId/element/997aa962-f29f-42dc-80cc-a8552fe9b4ea/click</name>
+                    <title>POST /session/:sessionId/element/997aa962-f29f-42dc-80cc-a8552fe9b4ea/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
